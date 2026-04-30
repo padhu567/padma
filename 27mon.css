@@ -1,0 +1,32 @@
+.siri{
+    background-color: pink;
+    color:blue;
+    display:inline-block;
+    overflow: scroll;  
+    height:90px;
+    width:100px;
+}
+button{
+    font-size:20px;
+    background-color:aqua;
+    height:30px;
+    width:50px;
+    position:relative;
+}
+.image{
+    background-image:url("image.PNG");
+    height:200px;
+    width:700px;
+    text-align: center;
+    display:inline-block;
+    overflow:scroll;
+background-attachment:local;
+}
+div{
+    height: 20px;
+    width:30px;
+    background-color: pink;
+}
+
+     
+

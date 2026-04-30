@@ -1,0 +1,69 @@
+.frnds{
+       display:flex;
+        flex-direction:row;
+        align-content:center;
+        height:300px;
+        width:200px;
+         gap:8px;
+    }
+    .family{
+         
+        display:flex;
+        align-content:center;
+        flex-direction:row-reverse;
+       height: 200px;
+       width:500px;
+         gap:10px;
+    }
+    .computer{
+        background-color:purple;
+         order:-2
+         
+    } 
+     .computer1{
+        color:skyblue;
+        background-color:pink;
+     }
+     .relation{
+     display:flex;
+        align-content:center;
+        flex-direction:column-reverse;
+        height:150px;
+        width:225px;
+         gap:10px; 
+     }
+     .computer2{
+        background-color:orangered;
+     }
+     .computer3{
+        background-color:chartreuse;
+     }
+     .computer4{
+        background-color:deepskyblue;
+     }
+.frnds{
+   display:flex;
+   flex-direction:row;
+   height:250px;
+   width:900px;
+   background-color:green;
+   justify-content:center;
+}
+.relation{
+   display:flex;
+   flex-direction:column;
+   height:250px;
+   width:900px;
+   background-color:green;
+   align-items:center;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+.computer1{
+   background-color:yellow;
+   order:-1
+}
+.computer2{
+   order:2
+}

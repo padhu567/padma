@@ -1,0 +1,28 @@
+p{
+    color:white;
+    background-color:red;
+    background-image:url("picture.png");
+    height:700px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.image-developer{
+    height:600px;
+    width:600px;
+    background-color:green;
+}
+.main-developer{
+    display:flex;
+    flex-direction:row;
+    gap:30px;
+}
+.image-container{
+    height:600px;
+    width:500px;
+    background-color:green;
+}
+.main-container{
+    display:flex;
+    flex-direction:column;
+    gap:100px;
+}

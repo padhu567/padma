@@ -1,0 +1,18 @@
+div{
+    background-color:aqua;
+}
+.siri{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: red;
+    gap:10px;
+}
+.giri{
+    display:grid;
+    grid-template-rows: 1fr 2fr 1fr;
+    background-color: red;
+    gap:10px;
+}
+.div-1{
+   display:none;
+}

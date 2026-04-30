@@ -1,0 +1,21 @@
+.inline h1,a{
+    display:block;
+    background-color: green;
+    height:100px;
+    width:150px;
+    
+}
+.block a,h2{
+    display:inline; 
+    background-color:orange; 
+    height:100px;
+    width:100px;   
+}
+.display a,p{
+    display:inline-block;
+    background-color:purple;
+    height:100px;
+    width:100px;   
+    
+}
+ 

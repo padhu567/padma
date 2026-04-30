@@ -1,0 +1,43 @@
+.padhu :first-child{
+    color:green;
+}
+
+a:link{
+    color:purple;
+}
+a:visited{
+    color:green;
+}
+a:hover{
+    color:brown;
+}
+a:action{
+    color:deeppink;
+}
+.hanvik:hover{
+    background-color:purple;
+}
+.box:hover{
+    background-color: aqua;
+    height:100px;
+    width: 100px;
+    box-shadow:-12px -12px 10px;  
+}
+.para1{
+    text-shadow:2px 2px 5px;
+    color:darkblue;
+    border-style:solid;
+    border-top-left-radius: 10px;
+    background-color: fuchsia;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    height:50px;
+}
+p:nth-child(3){
+color:chartreuse;
+}
+p:nth-of-type(5){
+    color:brown;
+}
+
+

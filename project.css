@@ -1,0 +1,32 @@
+.padma{
+    background-image:url("padhu3.jpg");
+    height:500px;
+    width:350px;
+}
+h1{
+     color:yellow;
+    text-align:center;
+}
+.giri{
+    background-color:deepskyblue;
+    border-style:solid;
+    border-top-left-radius: 10px;
+     text-align: right;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height:50px;
+    margin-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.siri{
+    border-style:solid;
+    border-top-left-radius: 10px;
+    background-color:darkslateblue;
+    border-bottom-right-radius:10px;
+    border-top-right-radius: 10px;
+    height:50px;
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-right: 10px;
+}

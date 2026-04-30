@@ -1,0 +1,36 @@
+.hanvik{
+    background-color: pinks;
+    height:100px;
+}
+.b1{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-areas:"main-sec main-sec main-sec"
+    "header header header"
+    "footer footer footer"
+     
+    "giri giri giri"
+    ;
+    background-color:brown;
+
+}
+.hanvik1{
+    grid-area:header;
+    background-color:greenyellow;
+}
+.hanvik2{
+    grid-area:footer;
+    background-color:green;
+}
+.hanvik3{
+    grid-area:main-sec;
+    background-color:purple;
+}
+.hanvik4{
+    grid-area:giri;
+    background-color:yellow;
+
+}
+div:nth-child(2){
+    color:white;
+}

@@ -1,0 +1,34 @@
+.development{
+    display:flex;
+    flex-direction:row;
+    align-content:center;
+    height:500px;
+    width:600px;
+    border:3px solid black;
+    align-items:center;/*vertical*/
+    justify-content:center;/*horizontal*/
+    gap:30px;
+}
+.box{
+    width:400px;
+    height:300px;
+    background-color:red;
+}
+.grow{
+    background-color:blue; 
+    order:-1
+}
+.shrink{
+    background-color:green;
+    order:1
+}
+.font-fam{
+    font-family:arial;
+    font-style:italic;
+    /*sans-serif,arial,roboto*/
+}
+.pre{
+    background-color:purple;
+    font-style:italic;
+}
+    

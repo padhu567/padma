@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+   color:blue;
+  
+}
+.image{
+    background-image:url("picture.PNG");
+    font-size:90px;
+    
+}
+.button{
+    text-align: center;
+
+  
+       
+} 
+h3{
+    color:blue;
+}
+.hello {
+    text-align: center;
+    text-decoration:underline;
+} 
+p{
+    color:yellow;
+}
+button{
+    font-size: 90px;
+    color:yellow;
+    border-color:yellow;
+    background-color: darkblue;
+}
+ a{
+    color:black;
+ }
