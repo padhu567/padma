@@ -1,0 +1,24 @@
+h1{
+    color:orangered;
+    margin-left: 20px;
+}
+b{
+    color:orangered;
+    margin-left: 20px;
+}
+button:hover{
+  background-color:yellow;
+   
+}
+button{
+    background-color: brown;
+    height:40px;
+    width: 40px;
+}
+img{
+  width:1300px;
+  }
+  p{
+    margin-left: 20px;
+  }
+ 

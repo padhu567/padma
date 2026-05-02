@@ -1,0 +1,72 @@
+
+
+img{
+    height:300px;
+    width:300px;
+    margin-top:40px;
+    border-radius: 30px;
+     margin-left: 40px;
+}
+.padhu{
+display: flex;
+flex-direction: row;
+ margin-bottom: 20px;
+height:400px;
+ width: 1000px; 
+ background-color: white;
+ border-radius: 30px;
+  margin-left: 40px;  
+}
+.lally{
+    display: flex;
+flex-direction: row;
+margin-bottom: 20px;
+ height:400px;
+ width: 1000px;
+ border-radius: 30px;
+ background-color: white;
+ margin-left: 40px; 
+  
+}
+.sri{
+    margin-bottom: 20px;
+ display: flex;
+flex-direction: row;
+height:400px;
+ width: 1000px;
+ border-radius: 30px;
+ background-color: white; 
+  margin-left: 40px;  
+}
+
+button:hover{
+    background-color: orange;
+     
+
+}
+.giri{
+    margin-left: 10px; 
+    margin-top: 50px;   
+}
+.siri{
+    margin-left: 10px;
+       margin-top: 50px;   
+}
+.janu{
+    margin-left: 10px;
+      margin-top: 50px;   
+}
+.hanvik{
+    background-color: yellow;
+}
+h1{
+    color:orangered;
+    text-align: center;
+}
+button{
+    height:50px;
+    width: 60px;
+    background-color: brown;
+    margin-left: 100px;
+    border-radius: 10px;
+}
