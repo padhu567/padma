@@ -1,0 +1,15 @@
+#padma{
+    height: 400px;
+    width: 400px;
+    margin-left: 100px;
+     margin-top: 30px;
+    border-radius: 40px;
+
+}
+button{
+    color:blue;
+    background-color:yellow ;
+    border-radius: 10px;
+     height: 60px;
+    margin-left: 190px;
+}
