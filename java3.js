@@ -31,7 +31,7 @@ let b=[4,5,6,];
 console.log(a.concat(b));
 
 let padhu=[2,30,3,40,4,60]
-console.log(padhu.sort());
+console.log(padhu.sort((a,b)=>a-b));
 
 let sri=["rabbit","cat","dog"];
 console.log(sri.reverse());
