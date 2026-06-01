@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="jtask2j.css"/>
+    </head> 
+    <body>
+        <div class="main">
+        <h1 id="heading">STUDENT REGISTRATION FORM</h1>
+        <form id="myForm">
+
+        <input type="text" id="one" placeholder="frist name"/>
+         <p id="firstnameerror" class="error"></p>
+
+
+        <input type="text" id="two" placeholder="last name"/>
+        <p id="lastnameerror" class="error"></p>
+
+        <input type="text" id="three" placeholder="email"/>
+        <p id="email" class="error"></p>
+        
+
+        <input type="text" id="four" placeholder="password"/>
+        <p id="passwordstrength"></p>
+
+      
+        <p id="charCount"></p>
+
+<select id="course">
+    <option value="">select coures</option>
+    <option>html</option>
+    <option>css</option>
+    <option>javascript</option>
+    <option>python</option>
+    <option>other coures</option>
+    </select>
+
+    <p id="courseText"></p>
+
+<button type="submit" id="submitBtn">submit</button>
+<button type="button" id="resetBtn">reset</button>
+</form>
+<p id="successMessage" class="success"></p>
+
+<button id="darkmodeBtn">dark mode</button> 
+ 
+<h3 id="timer"></h3>
+</div>
+<script src="jtask2.js"></script>
+
+    </body>
+</html>
